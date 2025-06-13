@@ -1,6 +1,6 @@
 <template>
   <div class="test-container">
-    <h1>Crud Productos - Prueba Junior</h1>
+    <h1>Crud De Productos - Prueba Junior</h1>
     <router-link to="/product/new" class="button-create"
       >Crear Nuevo Producto</router-link
     >
