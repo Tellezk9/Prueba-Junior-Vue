@@ -118,7 +118,7 @@ export default {
       };
     },
     cancel() {
-      this.$router.push({ name: "ProductList" });
+      this.$router.push({ name: "/" });
     },
   },
 };
