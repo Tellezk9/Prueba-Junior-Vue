@@ -4,7 +4,7 @@ import ProductForm from "@/components/ProductForm.vue";
 
 const routes = [
   {
-    path: "/product",
+    path: "/",
     name: "ProductList",
     component: ProductList,
   },
